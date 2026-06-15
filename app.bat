@@ -1,0 +1,2 @@
+python cnn.py
+PAUSE
